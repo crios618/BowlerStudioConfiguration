@@ -6,5 +6,11 @@
     "jogKinslider": "slider",
     "jogKiny": "y",
     "jogKinx": "x"
+  },
+  "studio-open-git": {
+    "https://gist.github.com/c1519b62815cec8dacf42ecf7c3e62c3.git:AnimatronicHead.groovy": [
+      "https://gist.github.com/c1519b62815cec8dacf42ecf7c3e62c3.git",
+      "AnimatronicHead.groovy"
+    ]
   }
 }
