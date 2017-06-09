@@ -7,7 +7,12 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {},
+  "studio-open-git": {
+    "none:C:\\Users\\carlos\\Desktop\\cabeza blower\\cabeza\\AnimatronicHead.groovy": [
+      "none",
+      "C:\\Users\\carlos\\Desktop\\cabeza blower\\cabeza\\AnimatronicHead.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "firstVersion": "0.19.5",
     "skinBranch": "0.21.0",
