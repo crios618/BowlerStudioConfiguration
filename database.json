@@ -7,20 +7,7 @@
     "jogKiny": "y",
     "jogKinx": "x"
   },
-  "studio-open-git": {
-    "none:C:\\Users\\carlos\\Desktop\\cabeza blower\\cabeza\\AnimatronicHead.groovy": [
-      "none",
-      "C:\\Users\\carlos\\Desktop\\cabeza blower\\cabeza\\AnimatronicHead.groovy"
-    ],
-    "https://gist.github.com/3f9fef17b23acfadf3f7.git:servo.groovy": [
-      "https://gist.github.com/3f9fef17b23acfadf3f7.git",
-      "servo.groovy"
-    ],
-    "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git:servoHorn.groovy": [
-      "https://gist.github.com/0c31993200bb48a12613ce9b48a29b22.git",
-      "servoHorn.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "firstVersion": "0.19.5",
     "skinBranch": "0.21.0",
